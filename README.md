@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Arlette Torres
 
-<!--
-**ArletteT3/ArletteT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Information Science student at Lamar University interested in cybersecurity, Linux systems, and secure software development.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Programming: Java, C++, C
+- Systems: Linux / Ubuntu
+- Tools: Git, VirtualBox, Eclipse IDE
+- Areas of Interest: Cybersecurity, Networking, System Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### CSRF Attack Simulation
+Simulated Cross-Site Request Forgery attacks against the Elgg web application in a Linux virtual environment.
+
+### PIN Security Simulator
+Java program that simulates password cracking time based on password complexity.
+
+### Image Processing Notebook
+Google Colab project demonstrating image flipping and convolution techniques.
+
+## Currently Learning
+- Web application security
+- Linux system administration
+- Network security fundamentals
